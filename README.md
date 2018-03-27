@@ -1,12 +1,16 @@
-# awesome-dynamic-slam 
+# awesome-dynamic-slam
 
 The following papers are the papers that fits my PhD research interest. They are mainly tackling the real-time reconstruction of multiplle dynamic objects or non-rigid objects. Some papers are off-line work yet also very interesting.
 
-Due to my personal interests, SFM-based or factorization-based work are not collected here.
+Due to my personal interests, SFM-based or factorization-based work are not collected here. Those papers can be found [here](https://github.com/openMVG/awesome_3DReconstruction_list).
+
+Another related paper list is about the semantic segmentation, which can be found [here](https://github.com/mrgloom/awesome-semantic-segmentation).
+
+------
 
 
 
-- Multiple Rigid Object Tracking and Reconstruction (Real-time)
+- ##Multiple Rigid Object Tracking and Reconstruction (Real-time)
 
   - Co-Fusion: Real-time Segmentation, Tracking and Fusion of Multiple Objects (ICRA 2017)
     - http://visual.cs.ucl.ac.uk/pubs/cofusion/ (website)
@@ -28,7 +32,7 @@ Due to my personal interests, SFM-based or factorization-based work are not coll
 
     ​
 
-- Non-rigid body Tracking and Reconstruction (Real-time)
+- ##Non-rigid body Tracking and Reconstruction (Real-time)
 
   - DynamicFusion: Reconstruction and Tracking of Non-rigid Scenes in Real-Time (CVPR 2015)
     - http://grail.cs.washington.edu/projects/dynamicfusion/papers/DynamicFusion.pdf (paper)
@@ -42,19 +46,22 @@ Due to my personal interests, SFM-based or factorization-based work are not coll
 
 
 
-- Background only, i.e. removing dynamic objects
+- ##Background only, i.e. removing dynamic objects
+
   - StaticFusion: Background Reconstruction for Dense RGB-D SLAM in Dynamic Environments (ICRA 2018)
     - http://www.robots.ox.ac.uk/~mobile/Papers/2018ICRA_scona.pdf (paper)
 
 
 
-- Non-realtime: non-rigid reconstruction
+- ##Non-realtime: non-rigid reconstruction
+
   - Video Pop-up : Monocular 3D Reconstruction of Dynamic Scenes SCENE RECONSTRUCTION WITH AN ADAPTIVE NEIGHBOURHOOD (ECCV 2014)
     - http://discovery.ucl.ac.uk/1454051/1/Russell_new_paper.pdf (paper)
 
 
 
-- Non-realtime: multiple object segmentation-tracking-reconstruction
+- ##Non-realtime: multiple object segmentation-tracking-reconstruction
+
   - Dense Multibody Motion Estimation and Reconstruction from a Handheld Camera (ISMAR 2012)
     - https://www.doc.ic.ac.uk/~aroussos/RoussosRussellGargAgapito_DenseMultibody_ISMAR12.pdf (paper)
   - ​
