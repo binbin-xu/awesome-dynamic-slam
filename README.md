@@ -44,8 +44,10 @@ Another related paper list is about the semantic segmentation, which can be foun
   - https://graphics.stanford.edu/~niessner/papers/2016/5volumeDeform/innmann2016deform.pdf (paper)
 - Fusion4D: Real-time Performance Capture of Challenging Scenes (Siggraph 2016)
   - http://www.samehkhamis.com/dou-siggraph2016.pdf (paper) 
-- ​
-
+- KillingFusion: Non-rigid 3D Reconstruction without Correspondences (CVPR 2017)
+  - http://campar.in.tum.de/pub/slavcheva2017cvpr/slavcheva2017cvpr.pdf (paper)
+- SobolevFusion: 3D Reconstruction of Scenes Undergoing Free Non-rigid Motion (CVPR 2018)
+  - ​
 
 
 ##Background only, i.e. removing dynamic objects
