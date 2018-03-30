@@ -52,9 +52,12 @@ Another related paper list is about the semantic segmentation, which can be foun
 
 ## Background only, i.e. removing dynamic objects
 
+- Fast Odometry and Scene Flow from RGB-D Cameras based on Geometric Clustering (ICRA 2017)
+  - http://mapir.isa.uma.es/mjaimez/Papers/Jaimez_et_al_VOSF_2017.pdf (paper)
+  - https://github.com/MarianoJT88/Joint-VO-SF (code)
+  - http://mapir.isa.uma.es/mapirwebsite/index.php?option=com_content&view=article&layout=edit&id=241 (website)
 - StaticFusion: Background Reconstruction for Dense RGB-D SLAM in Dynamic Environments (ICRA 2018)
   - http://www.robots.ox.ac.uk/~mobile/Papers/2018ICRA_scona.pdf (paper)
-
 
 
 ## Non-realtime: non-rigid reconstruction
