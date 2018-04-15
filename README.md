@@ -10,10 +10,18 @@ Another related paper list is about the semantic segmentation, which can be foun
 
 ------
 
+## Related survey papers:
+
+- State of the Art in Real-time Registration of RGB-D Images ([link](http://cg.cs.uni-bonn.de/aigaion2root/attachments/StateoftheArtinReal-timeRegistrationofRGB-DImages.pdf))
+- Visual SLAM and Structure from Motion in Dynamic Environments: A Survey ([link](https://dl.acm.org/citation.cfm?id=3177853))
+- State of the Art on 3D Reconstruction with RGB-D Cameras ([link](https://web.stanford.edu/~zollhoef/papers/EG18_RecoSTAR/paper.pdf))
+
 
 
 ## Multiple Rigid Object Tracking and Reconstruction (Real-time)
 
+- Joint 3D Reconstruction of a Static Scene and Moving Objects (3DV 2017)
+  - http://www.merl.com/publications/docs/TR2017-147.pdf (paper)
 - Co-Fusion: Real-time Segmentation, Tracking and Fusion of Multiple Objects (ICRA 2017)
   - http://visual.cs.ucl.ac.uk/pubs/cofusion/ (website)
   - https://github.com/martinruenz/co-fusion (code)
@@ -25,10 +33,6 @@ Another related paper list is about the semantic segmentation, which can be foun
   - http://siegedog.com/dynslam/ (website)
   - http://siegedog.com/assets/dynslam/robust-dense-mapping-paper-submission.pdf (paper)
   - https://github.com/AndreiBarsan/DynSLAM (code)
-
-- Joint 3D Reconstruction of a Static Scene and Moving Objects (ICRA 2018)
-
-  - http://www.merl.com/publications/docs/TR2017-147.pdf (paper)
 
 - ​
 
