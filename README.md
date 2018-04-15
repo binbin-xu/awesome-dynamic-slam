@@ -44,6 +44,9 @@ Another related paper list is about the semantic segmentation, which can be foun
   - https://graphics.stanford.edu/~niessner/papers/2016/5volumeDeform/innmann2016deform.pdf (paper)
 - Fusion4D: Real-time Performance Capture of Challenging Scenes (Siggraph 2016)
   - http://www.samehkhamis.com/dou-siggraph2016.pdf (paper) 
+- Real-time Geometry, Albedo and Motion Reconstruction Using a Single RGBD Camera (Siggraph 2017)
+  - http://www.liuyebin.com/monofvv/monofvv_files/MonoFVV.pdf (paper)
+  - http://www.liuyebin.com/monofvv/monofvv.html (website)
 - KillingFusion: Non-rigid 3D Reconstruction without Correspondences (CVPR 2017)
   - http://campar.in.tum.de/pub/slavcheva2017cvpr/slavcheva2017cvpr.pdf (paper)
 - SobolevFusion: 3D Reconstruction of Scenes Undergoing Free Non-rigid Motion (CVPR 2018)
@@ -66,6 +69,14 @@ Another related paper list is about the semantic segmentation, which can be foun
 
 - Video Pop-up : Monocular 3D Reconstruction of Dynamic Scenes SCENE RECONSTRUCTION WITH AN ADAPTIVE NEIGHBOURHOOD (ECCV 2014)
   - http://discovery.ucl.ac.uk/1454051/1/Russell_new_paper.pdf (paper)
+  - https://github.com/cvfish/VideoPopup (code)
+  - http://www0.cs.ucl.ac.uk/staff/R.Yu/video_popup/VideoPopup2.html (website)
+- Robust Non-rigid Motion Tracking and Surface Reconstruction Using L0 Regularization (ICCV 2015)
+  - http://media.au.tsinghua.edu.cn/liuyebin_files/nonrigid/nonrigid.pdf (paper)
+  - Code available by sending mail to the author
+  - http://media.au.tsinghua.edu.cn/nonrigid.html (website)
+
+
 
 
 
