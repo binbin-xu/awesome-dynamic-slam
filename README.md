@@ -65,6 +65,7 @@ Another related paper list is about the semantic segmentation, which can be foun
   - http://mapir.isa.uma.es/mapirwebsite/index.php?option=com_content&view=article&layout=edit&id=241 (website)
 - StaticFusion: Background Reconstruction for Dense RGB-D SLAM in Dynamic Environments (ICRA 2018)
   - http://www.robots.ox.ac.uk/~mobile/Papers/2018ICRA_scona.pdf (paper)
+  - https://www.youtube.com/watch?v=UVsqIgxHoBM (video)
 - Driven to Distraction: Self-Supervised Distractor Learning for Robust Monocular Visual Odometry in Urban Environments (ICRA 2018)
   - https://arxiv.org/pdf/1711.06623.pdf (paper)
 
