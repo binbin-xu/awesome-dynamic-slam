@@ -26,13 +26,13 @@ Another related paper list is about the semantic segmentation, which can be foun
   - http://visual.cs.ucl.ac.uk/pubs/cofusion/ (website)
   - https://github.com/martinruenz/co-fusion (code)
   - http://visual.cs.ucl.ac.uk/pubs/cofusion/icra2017_co-fusion_print.pdf (paper)
+  - Semantic segmentation is pre-computed
 
 
-- Robust Dense Mapping for Large-Scale Dynamic Environments (ICRA 2018)
+- MaskFusion (submitted to ISMAR 2018)
 
-  - http://siegedog.com/dynslam/ (website)
-  - http://siegedog.com/assets/dynslam/robust-dense-mapping-paper-submission.pdf (paper)
-  - https://github.com/AndreiBarsan/DynSLAM (code)
+  - https://arxiv.org/pdf/1804.09194.pdf (paper)
+  - http://visual.cs.ucl.ac.uk/pubs/maskfusion/ (website)
 
 - ​
 
@@ -54,7 +54,7 @@ Another related paper list is about the semantic segmentation, which can be foun
 - KillingFusion: Non-rigid 3D Reconstruction without Correspondences (CVPR 2017)
   - http://campar.in.tum.de/pub/slavcheva2017cvpr/slavcheva2017cvpr.pdf (paper)
 - SobolevFusion: 3D Reconstruction of Scenes Undergoing Free Non-rigid Motion (CVPR 2018)
-  - ​
+  - http://campar.in.tum.de/pub/slavcheva2018cvpr/slavcheva2018cvpr.pdf (paper)
 
 
 ## Background only, i.e. removing dynamic objects
@@ -89,4 +89,8 @@ Another related paper list is about the semantic segmentation, which can be foun
 
 - Dense Multibody Motion Estimation and Reconstruction from a Handheld Camera (ISMAR 2012)
   - https://www.doc.ic.ac.uk/~aroussos/RoussosRussellGargAgapito_DenseMultibody_ISMAR12.pdf (paper)
-- ​
+- Robust Dense Mapping for Large-Scale Dynamic Environments (ICRA 2018)
+  - http://siegedog.com/dynslam/ (website)
+  - http://siegedog.com/assets/dynslam/robust-dense-mapping-paper-submission.pdf (paper)
+  - https://github.com/AndreiBarsan/DynSLAM (code)
+  - pre-compute the semantic segmentation (cars)
