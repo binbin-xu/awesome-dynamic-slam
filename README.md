@@ -55,6 +55,8 @@ Another related paper list is about the semantic segmentation, which can be foun
   - http://campar.in.tum.de/pub/slavcheva2017cvpr/slavcheva2017cvpr.pdf (paper)
 - SobolevFusion: 3D Reconstruction of Scenes Undergoing Free Non-rigid Motion (CVPR 2018)
   - http://campar.in.tum.de/pub/slavcheva2018cvpr/slavcheva2018cvpr.pdf (paper)
+- MixedFusion: Real-Time Reconstruction of an Indoor Scene with Dynamic Objects (TVCG 2017)
+  - http://feng-xu.com/papers/MixedFusion-tvcg.pdf (paper)
 
 
 ## Background only, i.e. removing dynamic objects
