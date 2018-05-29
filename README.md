@@ -70,6 +70,8 @@ Another related paper list is about the semantic segmentation, which can be foun
   - https://www.youtube.com/watch?v=UVsqIgxHoBM (video)
 - Driven to Distraction: Self-Supervised Distractor Learning for Robust Monocular Visual Odometry in Urban Environments (ICRA 2018)
   - https://arxiv.org/pdf/1711.06623.pdf (paper)
+- Detecting, Tracking and Eliminating Dynamic Objects in 3D Mapping using Deep Learning and Inpainting (ICRA 2018)
+  - https://natanaso.github.io/rcw-icra18/assets/ref/ICRA-MRP18_paper_3.pdf (paper)
 
 
 ## Non-realtime: non-rigid reconstruction
