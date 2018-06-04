@@ -34,7 +34,11 @@ Another related paper list is about the semantic segmentation, which can be foun
   - https://arxiv.org/pdf/1804.09194.pdf (paper)
   - http://visual.cs.ucl.ac.uk/pubs/maskfusion/ (website)
 
-- ​
+- Relevant: SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks (ICRA 2017)
+
+
+  - https://arxiv.org/pdf/1606.02378.pdf (paper)
+  - Video: https://www.youtube.com/watch?v=UA_MKLHCWSo
 
   ​
 
