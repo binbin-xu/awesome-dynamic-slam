@@ -33,14 +33,21 @@ Another related paper list is about the semantic segmentation, which can be foun
 
   - https://arxiv.org/pdf/1804.09194.pdf (paper)
   - http://visual.cs.ucl.ac.uk/pubs/maskfusion/ (website)
-
 - Relevant: SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks (ICRA 2017)
-
 
   - https://arxiv.org/pdf/1606.02378.pdf (paper)
   - Video: https://www.youtube.com/watch?v=UA_MKLHCWSo
+- Learning Rigidity in Dynamic Scenes with a Moving Camera for 3D Motion Field Estimation (ECCV 2018)
 
-  ​
+  - paper: https://arxiv.org/abs/1804.04259
+  - slides: http://on-demand.gputechconf.com/gtc/2018/presentation/s8798-learning-rigidity-in-dynamic-scenes-for-scene-flow-estimation-v2.pdf
+  - video: https://www.youtube.com/watch?v=MnTHkOCY790&feature=youtu.be
+  - web: http://research.nvidia.com/publication/2018-09_Learning-Rigidity-in
+- SfM-Net: Learning of Structure and Motion from Video
+
+  - https://arxiv.org/pdf/1704.07804.pdf
+
+  
 
 ## Non-rigid body Tracking and Reconstruction (Real-time)
 
@@ -102,3 +109,23 @@ Another related paper list is about the semantic segmentation, which can be foun
   - http://siegedog.com/assets/dynslam/robust-dense-mapping-paper-submission.pdf (paper)
   - https://github.com/AndreiBarsan/DynSLAM (code)
   - pre-compute the semantic segmentation (cars)
+
+
+
+
+
+## Learn Depth and camera motion
+
+- DeMoN: Depth and Motion Network for Learning Monocular Stereo
+
+- Unsupervised Learning of Depth and Ego-Motion from Video
+
+- Multi-view Supervision for Single-view Reconstructionvia Differentiable Ray Consistency
+
+  
+
+  
+
+## Learn 3D map
+
+- OctNet: Learning Deep 3D Representations at High Resolutions
