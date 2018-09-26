@@ -46,6 +46,18 @@ Another related paper list is about the semantic segmentation, which can be foun
 - SfM-Net: Learning of Structure and Motion from Video
 
   - https://arxiv.org/pdf/1704.07804.pdf
+- Stereo Vision-based Semantic 3D Object and Ego-motion Tracking for Autonomous Driving (ECCV2018)
+
+
+    - https://arxiv.org/pdf/1807.02062.pdf  (paper)
+- Estimating metric poses of dynamic objects using monocular visual-inertial fusion (IROS 2018)
+
+
+    - https://arxiv.org/pdf/1807.02062.pdf (paper)
+  - Real-Time Object Pose Estimation with Pose Interpreter Networks (IROS2018)
+
+      - https://arxiv.org/pdf/1808.01099.pdf (paper)
+      - https://github.com/jimmyyhwu/pose-interpreter-networks (code)
 
   
 
@@ -109,6 +121,8 @@ Another related paper list is about the semantic segmentation, which can be foun
   - http://siegedog.com/assets/dynslam/robust-dense-mapping-paper-submission.pdf (paper)
   - https://github.com/AndreiBarsan/DynSLAM (code)
   - pre-compute the semantic segmentation (cars)
+- Multimotion Visual Odometry (MVO): Simultaneous Estimation of Camera and Third-Party Motions (IROS 2018)
+  - https://arxiv.org/pdf/1808.00274.pdf (paper)
 
 
 
